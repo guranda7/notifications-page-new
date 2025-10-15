@@ -1,0 +1,16 @@
+.notifications {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.redCircle {
+    width: 0.8rem;
+    height: 0.8rem;
+    background-color: red;
+    border-radius: 5rem;
+}
+
+.notification {
+    border: 0.1rem solid black;
+}
