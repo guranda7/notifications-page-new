@@ -14,3 +14,7 @@
 .notification {
     border: 0.1rem solid black;
 }
+
+.container {
+    width: 375rem;
+}
