@@ -1,0 +1,19 @@
+.notifications {
+    width: 100%;
+}
+
+.notification {
+    width: 34.3rem;
+    background-color: white;
+    border: none;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.profilePicture, .userPicture {
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 5rem;
+}

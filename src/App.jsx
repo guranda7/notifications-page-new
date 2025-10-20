@@ -5,11 +5,6 @@ import  Header  from './components/Header/Header'
 import Notification from './components/Notificatio/Notification'
 function App() {
  const [notifications, setNotifications] = useState(data)
-
- 
-
-
-
   return (
     <>
     <div className='container'>

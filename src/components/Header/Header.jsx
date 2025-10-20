@@ -1,3 +1,5 @@
+import './Header.css'
+
 export default function Header({notifications}) {
 
     const counter = notifications.filter((notification) => {
